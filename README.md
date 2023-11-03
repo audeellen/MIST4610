@@ -25,12 +25,14 @@ Description of Data Model:
 
 
 
+<img width="575" alt="Screen Shot 2023-11-03 at 11 31 29 AM" src="https://github.com/audeellen/MIST4610/assets/148274722/aa4ce715-7176-4559-a40b-fd3a532c897b">
 
 
-<img width="575" alt="Screen Shot 2023-11-03 at 11 26 06 AM" src="https://github.com/audeellen/MIST4610/assets/148274722/67a3bd62-b603-497b-8f06-df030d82e9df">
+
 
 
 ## Data Dictionary
+
 
 ## Queries
 
