@@ -21,7 +21,19 @@ For this project, we needed to create a relational database for a hypothetical s
 
 ## Data Model
 Description of Data Model: 
-<img width="679" alt="Screen Shot 2023-10-13 at 11 08 01 AM" src="https://github.com/audeellen/MIST4610/assets/148274722/9830a468-46e3-4ed0-95c7-091cb71f9f0b">
+
+
+
+
+
+
+<img width="575" alt="Screen Shot 2023-11-03 at 11 26 06 AM" src="https://github.com/audeellen/MIST4610/assets/148274722/67a3bd62-b603-497b-8f06-df030d82e9df">
+
+
+## Data Dictionary
+
+## Queries
+
 
 
 
